@@ -1,2 +1,2 @@
->[Important]
+>[!Important]
 >あああ
