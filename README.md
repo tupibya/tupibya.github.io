@@ -10,5 +10,5 @@
 >[!warning]
 >警告
 
->[!coution]
+>[!caution]
 >注意
