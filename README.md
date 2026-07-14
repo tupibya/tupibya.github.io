@@ -1,3 +1,2 @@
->[!NOTE]
->### Important
+>[Important]
 >あああ
