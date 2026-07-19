@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>reCAPTCHAテスト</title>
+</head>
+<body>
+  <form action="submit.php" method="POST">
+    <!-- 「私はロボットではありません」チェックボックス -->
+    <div
+      class="g-recaptcha"
+      data-sitekey="6Lfs_lotAAAAAFaQacHLT-hT51NuPK8QGmuS1xAW">
+    </div>
+
+    <button type="submit">送信</button>
+  </form>
+
+  <!-- reCAPTCHAのJS読み込み -->
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</body>
+</html>
